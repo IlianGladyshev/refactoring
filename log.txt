@@ -1,3 +1,5 @@
+9fa894d Task 2.3
+af971af Task 2.2 Updated log.txt
 7324120 Task 2.2
 2f50429 Task 2.1
 fcd63ea 2.1 Intermediate commit
