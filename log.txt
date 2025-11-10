@@ -1,3 +1,5 @@
+fcd63ea 2.1 Intermediate commit
+4ca7e4c Task 1.2
 c4eb0ed Task 1.1
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
